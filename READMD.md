@@ -1,3 +1,5 @@
-
-
-javac FirstJavaProgram.java -s /Users/h/Desktop/test
+### run
+make sure under Ducoment folder
+```
+bash run.sh
+```
